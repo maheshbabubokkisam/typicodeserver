@@ -1,18 +1,6 @@
 {
   "products": [
-    {
-      "_id": 1,
-      "prod_name": "Prod Name1",
-      "prod_desc":  "Prod Name 111",
-      "prod_price":  400,
-      "updated_at":  "01/01/2019",
-    },
-    {
-      "_id": 2,
-      "prod_name": "Prod Name2",
-      "prod_desc":  "Prod Name 222",
-      "prod_price":  300,
-      "updated_at":  "01/02/2019",
-    },    
+    {"_id": 1, "prod_name": "Prod Name1", "prod_desc":  "Prod Name 111", "prod_price":  400, "updated_at":  "01/01/2019"},
+    {"_id": 2, "prod_name": "Prod Name2", "prod_desc":  "Prod Name 222", "prod_price":  300, "updated_at":  "01/02/2019"}
   ]
 }
